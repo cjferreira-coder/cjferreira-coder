@@ -1,16 +1,29 @@
-## Hi there 👋
+### Olá, eu sou o CJ Ferreira! 👋
 
-<!--
-**cjferreira-coder/cjferreira-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Desenvolvedor Web em formação, focado em criar soluções funcionais e responsivas. Atualmente estou aprofundando meus conhecimentos em Front-end e construindo projetos práticos.
 
-Here are some ideas to get you started:
+- 🔭 **No que estou trabalhando:** No desenvolvimento de um site completo para o setor imobiliário.
+- 🌱 **O que estou estudando:** HTML5, CSS3, JavaScript e boas práticas de desenvolvimento.
+- 📍 **Localização:** Natal, RN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="CJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="CJ-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/cjferreira-coder">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjferreira-coder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjferreira-coder&layout=compact&theme=dracula"/>
+  </a>
+</div>
