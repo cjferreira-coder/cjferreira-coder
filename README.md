@@ -1,10 +1,10 @@
-### Olá, eu sou o CJ Ferreira! 👋
+### Olá, eu sou o CJ Ferreira! 
 
 Sou um Desenvolvedor Web em formação, focado em criar soluções funcionais e responsivas. Atualmente estou aprofundando meus conhecimentos em Front-end e construindo projetos práticos.
 
-- 🔭 **No que estou trabalhando:** No desenvolvimento de um site completo para o setor imobiliário.
-- 🌱 **O que estou estudando:** HTML5, CSS3, JavaScript e boas práticas de desenvolvimento.
-- 📍 **Localização:** Natal, RN
+-  **No que estou trabalhando:** No desenvolvimento de um site completo para o setor imobiliário.
+-  **O que estou estudando:** HTML5, CSS3, JavaScript e boas práticas de desenvolvimento.
+-  **Localização:** Natal, RN
 
 ---
 
