@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o CJ Ferreira! 👋</h1>
+  <h1>Olá, eu sou o Cleyton Joseph! 👋</h1>
   <h3>Desenvolvedor Front-end | UI/UX Enthusiast | Clean Code</h3>
   
   <p>
